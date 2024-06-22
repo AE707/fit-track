@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "155119744614",
+    "firebase_url": "https://fittrack-c4ca4-default-rtdb.firebaseio.com",
+    "project_id": "fittrack-c4ca4",
+    "storage_bucket": "fittrack-c4ca4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155119744614:android:ff42f894ebbd17d22d5fa7",
+        "android_client_info": {
+          "package_name": "com.example.fit_track"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155119744614-mt39gtumch6e3ia0nfmbq4qg9rqjlje6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcx20gWsUaH4bGYiAcRNEU1DMgX8DYkz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155119744614-mt39gtumch6e3ia0nfmbq4qg9rqjlje6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
